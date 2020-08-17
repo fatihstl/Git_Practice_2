@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e0f69e7-5bdd-4f4e-8270-89248bd23703" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Summer2020_B20/out/production/Summer2020_B20/Day37_Arraylist/C_BulkOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/Summer2020_B20/out/production/Summer2020_B20/Day37_Arraylist/C_BulkOperations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Summer2020_B20/out/production/Summer2020_B20/Day37_Arraylist/E_AddAll_method.class" beforeDir="false" afterPath="$PROJECT_DIR$/Summer2020_B20/out/production/Summer2020_B20/Day37_Arraylist/E_AddAll_method.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Summer2020_B20/out/production/Summer2020_B20/Day37_Arraylist/J_removeName_Interview.class" beforeDir="false" afterPath="$PROJECT_DIR$/Summer2020_B20/out/production/Summer2020_B20/Day37_Arraylist/J_removeName_Interview.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Summer2020_B20/out/production/Summer2020_B20/Day37_Arraylist/L_Lambda_Expression.class" beforeDir="false" afterPath="$PROJECT_DIR$/Summer2020_B20/out/production/Summer2020_B20/Day37_Arraylist/L_Lambda_Expression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Summer2020_B20/out/production/Summer2020_B20/Day37_Arraylist/M_Remove_Digit_Letters.class" beforeDir="false" afterPath="$PROJECT_DIR$/Summer2020_B20/out/production/Summer2020_B20/Day37_Arraylist/M_Remove_Digit_Letters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Summer2020_B20/src/Day37_Arraylist/C_BulkOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/Summer2020_B20/src/Day37_Arraylist/C_BulkOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Summer2020_B20/src/Day37_Arraylist/E_AddAll_method.java" beforeDir="false" afterPath="$PROJECT_DIR$/Summer2020_B20/src/Day37_Arraylist/E_AddAll_method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Summer2020_B20/src/Day37_Arraylist/H_retainAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/Summer2020_B20/src/Day37_Arraylist/H_retainAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Summer2020_B20/src/Day37_Arraylist/J_removeName_Interview.java" beforeDir="false" afterPath="$PROJECT_DIR$/Summer2020_B20/src/Day37_Arraylist/J_removeName_Interview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Summer2020_B20/src/Day37_Arraylist/L_Lambda_Expression.java" beforeDir="false" afterPath="$PROJECT_DIR$/Summer2020_B20/src/Day37_Arraylist/L_Lambda_Expression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Summer2020_B20/src/Day37_Arraylist/M_Remove_Digit_Letters.java" beforeDir="false" afterPath="$PROJECT_DIR$/Summer2020_B20/src/Day37_Arraylist/M_Remove_Digit_Letters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Summer2020_B20_git/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Summer2020_B20_git/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Summer2020_B20" />
+  </component>
+  <component name="ProjectId" id="1gCnZV0apbUNpyVcMTEqKjZviLv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e0f69e7-5bdd-4f4e-8270-89248bd23703" name="Default Changelist" comment="" />
+      <created>1597627498000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597627498000</updated>
+    </task>
+    <servers />
+  </component>
+</project>
